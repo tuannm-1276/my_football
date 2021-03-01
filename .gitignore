@@ -15,6 +15,16 @@
 *.ipr
 *.iws
 .idea/
+.idea/codeStyles/Project.xml
+.idea/libraries/Dart_Packages.xml
+.idea/libraries/Dart_SDK.xml
+.idea/libraries/Flutter_Plugins.xml
+.idea/libraries/KotlinJavaRuntime.xml
+.idea/misc.xml
+.idea/modules.xml
+.idea/runConfigurations/main_dart.xml
+.idea/vcs.xml
+
 
 # Visual Studio Code related
 .classpath
